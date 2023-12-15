@@ -2,7 +2,7 @@
   "name": "filter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kiraradi.github.io/re-filter/",
+  "homepage": "https://freepad.github.io/re-filter/",
  
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
